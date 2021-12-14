@@ -1,2 +1,2 @@
-# car-rental-template
-Car rental template for bootstrap
+# car-rental-Website
+Aims on being a real-time functional website
